@@ -1,0 +1,14 @@
+[
+    {
+        "number":1,
+        "filename":"1.mp3",
+        "artist":"Arijit Singh",
+        "title":"Apna Bana Le Piya"
+    },
+    {
+        "number":2,
+        "filename":"2.mp3",
+        "artist":"Varun Jain",
+        "title":"Tere Vaaste falak se main"
+    }
+]
