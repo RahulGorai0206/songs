@@ -10,7 +10,77 @@
         "number":2,
         "filename":"2.mp3",
         "image":"2.jpg",
-        "artist":"Varun Jain",
+        "artist":"Arijit Singh",
         "title":"Tere Vaaste falak se main"
+    },
+    {
+        "number":3,
+        "filename":"3.mp3",
+        "image":"Padman-Hindi-2017-20171226-500x500.jpg",
+        "artist":"Arijit Singh",
+        "title":"aaj se teri"
+    },
+    {
+        "number":4,
+        "filename":"4.mp3",
+        "image":"ab67616d0000b273065653e77bb7fac5b271e5cb.jpeg",
+        "artist":"Dikshant",
+        "title":"Aankhon Se Batana"
+    },
+    {
+        "number":5,
+        "filename":"5.mp3",
+        "image":"alag.jpg",
+        "artist":"Anuv Jain",
+        "title":"Alag Aasmaan"
+    },
+    {
+        "number":6,
+        "filename":"6.mp3",
+        "image":"hqdefault.jpg",
+        "artist":"Anuv Jain",
+        "title":"Antariksh"
+    },
+    {
+        "number":7,
+        "filename":"7.mp3",
+        "image":"gul.jpeg",
+        "artist":"Anuv Jain",
+        "title":"gul"
+    },
+    {
+        "number":8,
+        "filename":"3.mp3",
+        "image":"Baarishein-English-2018-20180522204131-500x500.jpg",
+        "artist":"Anuv Jain",
+        "title":"Baarishein"
+    },
+    {
+        "number":9,
+        "filename":"9.mp3",
+        "image":"download.jpeg",
+        "artist":"Dikshant",
+        "title":"Baithe Baithe"
+    },
+    {
+        "number":10,
+        "filename":"10.mp3",
+        "image":"maxresdefault.jpg",
+        "artist":"Varun Jain",
+        "title":"choo lo"
+    },
+    {
+        "number":11,
+        "filename":"11.mp3",
+        "image":"images.jpeg",
+        "artist":"Amaal Mallik",
+        "title":"HUA HAIN AAJ PEHLI BAAR"
+    },
+    {
+        "number":12,
+        "filename":"12.mp3",
+        "image":"ab67616d0000b273d7e3bd8901c320d2a6f238c9.jpg",
+        "artist":"jalraj",
+        "title":"Rozana"
     }
 ]
